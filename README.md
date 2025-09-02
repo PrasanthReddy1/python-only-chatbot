@@ -19,33 +19,34 @@ If the user asks something unrelated, the bot politely refuses.
 
 ---
 
-##🛠️ Installation & Running Locally
-    1. Clone the repo
+## 🛠️ Installation & Running Locally
+-    1. Clone the repo
         git clone https://github.com/PrasanthReddy1/python-only-chatbot.git
         cd python-only-chatbot
-    2. Create virtual environment
+-    2. Create virtual environment
         python -m venv venv
         .\venv\Scripts\activate   # On Windows
-        # or
+         or
         source venv/bin/activate  # On macOS/Linux
-    3. Install dependencies
+-    3. Install dependencies
         pip install -r requirements.txt
-    4. Run the app
+-    4. Run the app
         streamlit run app.py
 
 ---
 
-##🔑 API Key Setup
-    1. Get key from https://platform.openai.com/settings
-    2. Paste it into the sidebar of the app
+## 🔑 API Key Setup
+-    1. Get key from https://platform.openai.com/settings
+-    2. Paste it into the sidebar of the app
 
 ---
 
 ##🌐 Deployment
-  This app can be deployed on Streamlit Cloud or Render.
-  Streamlit Cloud
+-  This app can be deployed on Streamlit Cloud or Render.
+-  Streamlit Cloud
     Push this repo to GitHub.
     Go to Streamlit Cloud → New app → select app.py.
     Add your API key under Secrets.
+
 
 
