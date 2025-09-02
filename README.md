@@ -48,6 +48,10 @@ If the user asks something unrelated, the bot politely refuses.
     Go to Streamlit Cloud → New app → select app.py.
     Add your API key under Secrets.
 
+---
+
+You can view the hosted version
+- https://python-only-chatbot-fsj7upagenniblnjssnqsr.streamlit.app
 
 
 
