@@ -19,7 +19,7 @@ If the user asks something unrelated, the bot politely refuses.
 
 ---
 
-🛠️ Installation & Running Locally
+##🛠️ Installation & Running Locally
     1. Clone the repo
         git clone https://github.com/PrasanthReddy1/python-only-chatbot.git
         cd python-only-chatbot
@@ -35,16 +35,17 @@ If the user asks something unrelated, the bot politely refuses.
 
 ---
 
-🔑 API Key Setup
+##🔑 API Key Setup
     1. Get key from https://platform.openai.com/settings
     2. Paste it into the sidebar of the app
 
 ---
 
-🌐 Deployment
+##🌐 Deployment
   This app can be deployed on Streamlit Cloud or Render.
   Streamlit Cloud
     Push this repo to GitHub.
     Go to Streamlit Cloud → New app → select app.py.
     Add your API key under Secrets.
+
 
